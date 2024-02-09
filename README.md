@@ -1,3 +1,4 @@
+# MasonObfuscator
 MasonObfuscator is a comprehensive tool designed to obfuscate .NET assemblies, providing a layer of protection to prevent reverse engineering and unauthorized access to your code. This tool offers a range of obfuscation techniques aimed at altering the structure and behavior of the assembly while preserving its functionality.
 ---
 Using MasonObfuscator, you can obscure the original intent and logic of your code by applying various obfuscation methods such as string encryption, method renaming, control flow obfuscation, and resource encryption. These techniques make it challenging for attackers to understand and analyze the assembly, thereby enhancing its security against decompilation and tampering.
