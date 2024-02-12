@@ -7,7 +7,6 @@ Method Renaming: The tool renames methods and classes in the assembly using rand
 Control Flow Obfuscation: MasonObfuscator modifies the control flow of the assembly by introducing junk code, conditional jumps, and other obfuscation transformations. This confuses static analysis tools and makes it harder for reverse engineers to follow the program's execution path.
 Resource Encryption: MasonObfuscator encrypts embedded resources such as images, icons, and configuration files within the assembly. This protects sensitive data and prevents attackers from extracting or modifying these resources.
 By combining these obfuscation techniques, MasonObfuscator provides robust protection for your .NET assemblies, safeguarding your intellectual property and sensitive information from unauthorized access and reverse engineering.
----
 ```sh
 "We hereby declare that we disclaim any liability for any improper use of the software. Thank you for your understanding."
 
